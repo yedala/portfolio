@@ -21,6 +21,7 @@ html{
     width:100%;
     z-index: 999;
     padding:30px 0;
+    
     font-family:'Ubuntu',sans-serif;
     transition: all 0.3s ease;
 }
@@ -234,6 +235,7 @@ section{
 .about .about-content .right p span{
     color:crimson;
     font-weight: 400;
+   
 
 }
 .about .about-content .right a{
@@ -751,7 +753,9 @@ footer span a:hover{
         width: 100%;
 
     }
+    
 }
+
 @media(max-width:500px){
     
     .home .home-content .text-2{
@@ -765,5 +769,7 @@ footer span a:hover{
         font-size: 20px;
         padding: 6px 15px;
     }
+   
+    
 }
 
