@@ -541,15 +541,23 @@ section{
 }
 
 .contact .contact-content .row img{
-    height:33px;
-    width:33px;
+    height:36px;
+    width:36px;
     border-radius: 50%;
-    border:2px solid crimson;
-
+    
 }
 
 
 
+.contact .contact-content .info .head a{
+    color: black;
+    font-weight: 400;
+
+
+}
+.contact .contact-content .info .head a:hover{
+    color:crimson;
+}
 .contact .contact-content .info .head{
     font-weight: 500;
 }
